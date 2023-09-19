@@ -1,9 +1,11 @@
 # OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY
 
 AIM:
+
 To Install the OS in the computer system
 
-STEPS:
+MATERIALS REQUIRED:
+
 1.Operating System Installation Media
 
 2.Computer with Appropriate Hardware
